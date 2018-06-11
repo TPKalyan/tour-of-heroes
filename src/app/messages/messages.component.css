@@ -8,7 +8,7 @@ body {
   margin: 2em;
 }
 body, input[text], button {
-  color: crimson;
+  color: rgb(222, 119, 92);
   font-family: Cambria, Georgia;
 }
 
